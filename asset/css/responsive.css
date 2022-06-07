@@ -1,4 +1,4 @@
-@media (max-width: 1024px) {
+@media (max-width: 63.975em) {
     .btn {
         padding: 15px;
     }
@@ -19,7 +19,7 @@
         padding: 5px;
     }
 }
-@media (max-width: 740px) {
+@media (max-width: 46.1875em) {
     .s-col-full,
     .s-full-width{
         width: 100%;
