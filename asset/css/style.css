@@ -150,11 +150,11 @@ html {
    position: relative;
    margin-top: 46px;
    padding-top: 50%;
-/*    background: url('https://github.com/duc-cute/the-band-remake/blob/main/asset/image/slider1.jpg?raw=true') top center /cover no-repeat; */
-     background-image:url('the-band-remake/blob/main/asset/image/slider1.jpg');
+   background: url('https://github.com/duc-cute/the-band-remake/blob/main/asset/image/slider1.jpg?raw=true') top center /cover no-repeat;
+/*      background-image:url('/asset/image/slider1.jpg');
    background-position:top center;
    background-repeat: no-repeat;
-   background-size: cover;
+   background-size: cover; */
 }
 #slider .text-content {
     position: absolute;
