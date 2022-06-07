@@ -66,11 +66,12 @@
         top: 0;
         right: 0;
     }
-     .text-content {
-        display: none;
-    }
+    
     #content .member-img {
        width: 60%;
+    }
+     .text-content {
+        display: none;
     }
    
     .contact-form {
